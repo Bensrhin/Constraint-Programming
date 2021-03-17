@@ -10,4 +10,4 @@ Each input file contains the size of the graph (graph_size), the starting vertex
 
 This assignment must be solved either using the **subcircuit(x)** or the **network_flow(arc, balance, flow)** constraint.
 
-**Task 1:** write program that solves the optimization problem described above.
+**Task:** write program that solves the optimization problem described above.
