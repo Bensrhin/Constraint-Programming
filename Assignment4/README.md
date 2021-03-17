@@ -15,3 +15,4 @@ Fill the table. Optimal means that you have proved that there do not exist ay sh
 • An efficient model should use Cumulative and Diff2/Diffn constraints. You may need to use special labeling.
 • The example with 1 adder and 3 multipliers may take several minutes to compute.
 
+![graph](https://user-images.githubusercontent.com/64482881/111470262-f511f080-8727-11eb-89a3-ed5ea89e4329.png)
