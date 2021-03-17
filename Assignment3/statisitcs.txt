@@ -1,0 +1,56 @@
+input_order:
+
+    Strategy: 1
+        Total number of visited nodes = 41847
+        Total number of failed nodes = 20923
+    Strategy: 2
+        Total number of visited nodes = 701141
+        Total number of failed nodes = 350570
+
+
+first_fail:
+
+    Strategy: 1
+        Total number of visited nodes = 56961
+        Total number of failed nodes = 28480
+    Strategy: 2
+        Total number of visited nodes = 1529431
+        Total number of failed nodes = 764715
+
+
+smallest:
+
+    Strategy: 1
+        Total number of visited nodes = 41847
+        Total number of failed nodes = 20923
+    Strategy: 2
+        Total number of visited nodes = 701141
+        Total number of failed nodes = 350570
+
+
+largest_min:
+
+    Strategy: 1
+        Total number of visited nodes = 73063
+        Total number of failed nodes = 36531
+    Strategy: 2
+        Total number of visited nodes = 178937
+        Total number of failed nodes = 89468
+
+smallest_max:
+
+    Strategy: 1
+        Total number of visited nodes = 73063
+        Total number of failed nodes = 36531
+    Strategy: 2
+        Total number of visited nodes = 178937
+        Total number of failed nodes = 89468
+
+most_constraint:
+
+    Strategy: 1
+        Total number of visited nodes = 47409
+        Total number of failed nodes = 23704
+    Strategy: 2
+        Total number of visited nodes = 1625439
+        Total number of failed nodes = 812719

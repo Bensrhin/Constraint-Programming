@@ -1,0 +1,8 @@
+graph_size = 5;
+start = 1;
+n_dests = 2;
+dest = [4,5];
+n_edges = 5;
+from = [1,1,2,2,3];
+to =   [2,3,3,4,5];
+cost = [10,10,2,1,1];
